@@ -1,6 +1,6 @@
 # Autonomous Research Assistant
 
-A production-grade multi-agent system that autonomously searches academic papers, analyzes them, and synthesizes structured research reports — with a self-critique feedback loop.
+A multi-agent system (personal project) that autonomously searches academic papers, analyzes them, and synthesizes structured research reports — with a self-critique feedback loop.
 
 Built with **LangGraph**, **Groq (Llama 3.3 70B)**, **FastAPI**, and **React**.
 
